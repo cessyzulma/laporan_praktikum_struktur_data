@@ -7,4 +7,3 @@
 
   -> Laporan akhir, description = more on how to create a program to add 2 matrices, each matrix has the same order using an array 
   
-  - pertemuan_03
